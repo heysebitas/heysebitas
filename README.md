@@ -1,4 +1,4 @@
-# hey, i'm sevas 👋
+# Hey, I'm Sebas 👋
 
 *sometimes i code to forget, sometimes i forget to code*
 
@@ -13,7 +13,6 @@
   </a>
 </p>
 
-### my current obsessions:
 <p align="center">
   <img src="https://heysebitas.vercel.app/api/top-played" alt="Top Played">
 </p>
@@ -57,5 +56,5 @@
 ---
 
 <p align="center">
-  <i>building things, one commit at a time</i>
+  <i>building things, one commit at a time :)</i>
 </p>
