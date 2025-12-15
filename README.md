@@ -73,20 +73,3 @@
 <p align="center">
   <i>building things, one commit at a time :)</i>
 </p>
-
----
-
-## 🧠 want to learn
-
-- PHP
-- Ruby
-- Kotlin
-- Swift
-- .NET / C#
-- Flutter
-- Angular
-- Material UI
-- MySQL
-- Supabase
-- Trello
-- Pandas
