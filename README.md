@@ -1,16 +1,24 @@
-## Hi there 👋
+*sometimes i code to forget, sometimes i forget to code*
 
-<!--
-**heysebitas/heysebitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<p align="center">
+  <a href="https://heysebitas.vercel.app/api/now-playing?open">
+    <img
+      src="https://heysebitas.vercel.app/api/now-playing"
+      alt="Now Playing"
+      width="420"
+    />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img
+    src="https://heysebitas.vercel.app/api/top-played"
+    alt="Top Played"
+    style="opacity:0.55; filter: grayscale(100%);"
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <sub>inspired by <a href="https://github.com/andyruwruw">@andyruwruw</a></sub>
+</p>
