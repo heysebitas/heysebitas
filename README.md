@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=13&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=500&lines=sometimes+i+code+to+forget.;sometimes+i+forget+to+code.;quiet+work%2C+loud+ideas." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=13&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=500&lines=sometimes+i+code+to+forget.;sometimes+i+forget+to+code.;building+things+nobody+asked+for.;debugging+at+3am+again.;the+music+knows+what+i+can%27t+say.;committing+to+things+i+shouldn%27t.;git+push+and+hope+for+the+best.;writing+code+like+writing+songs.;shipping+at+midnight.;lost+in+the+build.;the+syntax+is+clean.+the+mind+isn%27t.;console.log(everything).;living+on+caffeine+and+playlists.;it+compiles.+that%27s+enough.;music+first.+everything+else+later.;ctrl%2Bz+on+life%2C+please.;404%3A+sleep+not+found.;undefined+is+not+a+feeling.+or+is+it.;in+a+relationship+with+my+terminal.;the+loop+never+ends." alt="typing" />
 </p>
-
-*sometimes i code to forget, sometimes i forget to code*
 
 ---
 
